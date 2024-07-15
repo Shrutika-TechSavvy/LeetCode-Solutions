@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0726-number-of-atoms](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2846-robot-collisions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
