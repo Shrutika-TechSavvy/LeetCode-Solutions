@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -128,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
