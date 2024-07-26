@@ -15,12 +15,12 @@ public class Solution {
             return false;
         }
 
-        ListNode hare = head;
-        ListNode turtle = head;
-        while (hare != null && hare.next != null){
-            hare = hare.next.next;
-            turtle = turtle.next;
-            if (hare == turtle){
+        ListNode fast = head;
+        ListNode slow = head;
+        while (fast != null && fast.next != null){
+            fast = fast.next.next;
+            slow = slow.next;
+            if (fast == slow){
                 return true;
             }
         }
