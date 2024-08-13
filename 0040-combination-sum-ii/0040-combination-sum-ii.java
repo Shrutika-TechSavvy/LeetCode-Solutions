@@ -1,23 +1,63 @@
+import java.util.*;
+
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List < List < Integer >> ans = new ArrayList < > ();
-        Arrays.sort(candidates);
-        findCombinations(0, candidates, target, ans, new ArrayList < > ());
-        return ans;
+        return new AbstractList<List<Integer>>() {
+            List<List<Integer>> result = null;
+
+            public List<Integer> get(int i) {
+                init();
+                return result.get(i);
+            }
+
+            public int size() {
+                init();
+                return result.size();
+            }
+
+            private void init() {
+                if (result != null) return;
+
+                Arrays.sort(candidates);
+
+                // Create a frequency map to count occurrences of each element
+                Map<Integer, Integer> freqMap = new HashMap<>();
+                for (int i : candidates) {
+                    freqMap.put(i, freqMap.getOrDefault(i, 0) + 1);
+                }
+
+                // Convert frequency map to a list of arrays [element, frequency]
+                List<int[]> freq = new ArrayList<>();
+                freqMap.forEach((k, v) -> freq.add(new int[] { k, v }));
+
+                Set<List<Integer>> set = new HashSet<>();
+                impl(freq, 0, target, new ArrayList<>(), 0, set);
+                result = new ArrayList<>(set);
+            }
+        };
     }
-    static void findCombinations(int ind, int[] arr, int target, List < List < Integer >> ans, List < Integer > ds) {
-        if (target == 0) {
-            ans.add(new ArrayList < > (ds));
+
+    private void impl(List<int[]> candidates, int start, int target, List<Integer> list, int sum, Set<List<Integer>> result) {
+        if (sum == target) {
+            result.add(new ArrayList<>(list));
             return;
         }
 
-        for (int i = ind; i < arr.length; i++) {
-            if (i > ind && arr[i] == arr[i - 1]) continue;
-            if (arr[i] > target) break;
+        for (int i = start; i < candidates.size(); i++) {
+            int[] c = candidates.get(i);
+            if (c[1] == 0) continue; // Skip if no occurrences left
+            if (sum + c[0] > target) continue; // Skip if sum exceeds target
 
-            ds.add(arr[i]);
-            findCombinations(i + 1, arr, target - arr[i], ans, ds);
-            ds.remove(ds.size() - 1);
+            // Choose the current element
+            list.add(c[0]);
+            c[1]--; // Decrease the count
+
+            // Recurse with updated parameters
+            impl(candidates, i, target, list, sum + c[0], result);
+
+            // Backtrack: remove the current element and restore count
+            list.remove(list.size() - 1);
+            c[1]++;
         }
     }
 }
