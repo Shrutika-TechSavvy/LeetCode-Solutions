@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Union Find
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -438,8 +442,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
