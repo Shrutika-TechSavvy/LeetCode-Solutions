@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
