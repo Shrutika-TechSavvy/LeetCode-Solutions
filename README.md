@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
