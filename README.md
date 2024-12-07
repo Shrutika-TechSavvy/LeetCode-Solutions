@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0485-max-consecutive-ones](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
