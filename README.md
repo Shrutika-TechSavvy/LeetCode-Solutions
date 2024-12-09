@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
