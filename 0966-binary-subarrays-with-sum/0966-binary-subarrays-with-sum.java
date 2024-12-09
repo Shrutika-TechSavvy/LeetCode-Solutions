@@ -9,6 +9,7 @@ class Solution {
                 // Calculate the sum of the subarray nums[i...j]
                 sum += nums[j];
 
+                if(sum>goal) break;
                 // Check if the sum equals the goal
                 if (sum == goal) {
                     count++;
