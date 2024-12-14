@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0476-number-complement) |
