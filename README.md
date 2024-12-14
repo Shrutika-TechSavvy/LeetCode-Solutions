@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -592,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
