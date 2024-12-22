@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1127-last-stone-weight](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
