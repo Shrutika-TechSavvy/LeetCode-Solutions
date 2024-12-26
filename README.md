@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1013-fibonacci-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0664-strange-printer) |
+| [1013-fibonacci-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1013-fibonacci-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Rolling Hash
 |  |
 | ------- |
