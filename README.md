@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Prefix Sum
