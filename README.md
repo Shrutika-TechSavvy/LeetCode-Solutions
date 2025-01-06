@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0127-word-ladder](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
