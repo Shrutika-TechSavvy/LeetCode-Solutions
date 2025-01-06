@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 
     class Pair {
 
@@ -72,5 +72,33 @@ class Solution {
         if (dist[dest] ==  Integer.MAX_VALUE)
             return -1;
         return dist[dest];
+    }
+}*/
+
+import java.util.*;
+
+class Solution {
+    public int findCheapestPrice(int n, int[][] flights, int src, int dest, int k) {
+        int[] dist = new int[n];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        dist[src] = 0;
+
+        // Perform Bellman-Ford relaxation for k+1 times
+        for (int i = 0; i <= k; i++) {
+            int[] temp = Arrays.copyOf(dist, n); // Use a temp array to avoid overwriting in the same iteration
+            for (int[] flight : flights) {
+                int u = flight[0];
+                int v = flight[1];
+                int cost = flight[2];
+                
+                // Relax the edge if the source has been reached
+                if (dist[u] != Integer.MAX_VALUE && dist[u] + cost < temp[v]) {
+                    temp[v] = dist[u] + cost;
+                }
+            }
+            dist = temp; // Update the distance array after each iteration
+        }
+        
+        return dist[dest] == Integer.MAX_VALUE ? -1 : dist[dest];
     }
 }
