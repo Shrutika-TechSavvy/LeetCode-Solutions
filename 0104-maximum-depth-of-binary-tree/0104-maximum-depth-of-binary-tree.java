@@ -14,9 +14,16 @@
  * }
  */
 class Solution {
-    public int maxDepth(TreeNode root) {
 
+    public int solve(TreeNode root){
+        if(root==null) return 0;
+
+        return 1+Math.max(solve(root.left), solve(root.right));
+    }
+    public int maxDepth(TreeNode root) {
+        
         //applying the bfs
+        /*
         Queue<TreeNode> queue=new LinkedList<>();
 
         if(root!=null){
@@ -38,6 +45,9 @@ class Solution {
         }
 
         return level;
+        */
+
+        return solve(root);
         
     }
 }
