@@ -1,8 +1,8 @@
 class Solution {
-    public int[][] merge(int[][] intervals) {
+    public int[][] merge(int[][] arr) {
         
-        int n=intervals.length;
-        Arrays.sort(intervals, new Comparator<int[]>(){
+        int n=arr.length;
+        Arrays.sort(arr, new Comparator<int[]>(){
             public int compare(int a[], int b[]){
                 return a[0]-b[0];
             }
@@ -10,6 +10,16 @@ class Solution {
         List <List<Integer>> ans=new ArrayList<>();
 
         for(int i=0; i<n; i++){
+
+            //if teh current interval does not lies in last inetrval, new interval in answer
+            if(ans.isEmpty() || arr[i][0] > ans.get(ans.size()-1).get(1)){
+                ans.add(Arrays.asList(arr[i][0], arr[i][1]));
+            }
+
+            //if the current interval lies in the last interval, can be merged
+            ans.get(ans.size()-1). set(1, Math.max(ans.get(ans.size()-1).get(1), arr[i][1]));
+
+            /*Brute force approach
             int start=intervals[i][0];
             int end=intervals[i][1];
 
@@ -24,6 +34,7 @@ class Solution {
                 }
             }
             ans.add(Arrays.asList(start, end));
+            */
         }
 
         int[][] result = new int[ans.size()][2];
