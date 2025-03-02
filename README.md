@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
 |  |
