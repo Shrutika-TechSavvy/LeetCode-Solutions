@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [2793-count-the-number-of-complete-components](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Strongly Connected Component
 |  |
