@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2502-sort-the-people](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
