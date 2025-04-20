@@ -1,17 +1,31 @@
 class Solution {
     public String largestNumber(int[] nums) {
-        String[] array =  new String[nums.length];
-        for(int i=0; i<nums.length; i++){
-            array[i] = String.valueOf(nums[i]);
+        
+        //Approach to the problem in a unique way
+        //Use the priority queue 
+
+        //Step 1: Sort the array in descending order , based on the unit place
+        //Step 2: While store it in the priority queue<max heap>
+        //Step 3: then pop up the element and create the string accordingle and return
+
+
+        //Create a priority queue (max heap) with a custom comparator
+        PriorityQueue<String> maxHeap=new PriorityQueue<>((a, b)-> (b+a).compareTo(a+b));
+
+        //Adding all numbers to the heap as strings
+        for(int num: nums){
+            maxHeap.add(String.valueOf(num));
         }
-        Arrays.sort(array,(a,b)-> (b+a).compareTo(a+b));
-        if(array[0].equals("0")){
-            return "0";
+
+        //If the largest is '0' then all are zeroes
+        if(maxHeap.peek().equals("0")) return "0";
+
+        //Build the largest number by poplling frim the max heap
+
+        StringBuilder result=new StringBuilder();
+        while(!maxHeap.isEmpty()){
+            result.append(maxHeap.poll());
         }
-        StringBuilder largest = new StringBuilder();
-        for(int i=0; i<array.length; i++){
-            largest.append(array[i]);
-        }
-        return largest.toString();
+        return result.toString();
     }
 }
