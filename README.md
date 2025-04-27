@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Recursion
 |  |
 | ------- |
