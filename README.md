@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -824,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0494-target-sum) |
