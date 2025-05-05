@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
