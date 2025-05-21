@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
