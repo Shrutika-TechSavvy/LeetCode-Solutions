@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
