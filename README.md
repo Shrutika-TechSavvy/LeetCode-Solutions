@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Linked List
 |  |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -743,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -957,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Rolling Hash
 |  |
 | ------- |
