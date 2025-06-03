@@ -8,6 +8,7 @@ class Solution {
         if(dp[i][j]!=-1) return dp[i][j];
         int up=solve(i+1, j, m, n, grid, dp);
         int down=solve(i, j+1, m, n, grid, dp);
+        
         return dp[i][j]=up+down;
 
     }
@@ -20,6 +21,5 @@ class Solution {
             Arrays.fill(a, -1);
         }
         return solve(0, 0, m,n, grid, dp);
-
     }
 }
