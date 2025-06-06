@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
