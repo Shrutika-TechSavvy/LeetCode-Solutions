@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0967-minimum-falling-path-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
