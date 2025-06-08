@@ -5,7 +5,7 @@ class Solution {
         general traverse over the string , use hashset or hashmap to check if that character already exists ,
         if yes then  go to next iteration of i
         If not increment the j pointer and calculate /increment the maxlength again4
-         */
+        
         int maxLen = 0;
         HashSet<Character> set = new HashSet<>();
         int count = 0;
@@ -24,6 +24,22 @@ class Solution {
             }
             maxLen = Math.max(maxLen, count);
         }
+        return maxLen;
+         */
+
+        int left=0, right=0, maxLen=0;
+        HashSet<Character> set = new HashSet<>();
+        while(right < s.length()){
+            char c=s.charAt(right);
+            while(set.contains(c)){
+                set.remove(s.charAt(left));
+                left++;
+            }
+            set.add(c);
+            maxLen=Math.max(maxLen, right - left +1);
+            right++;
+        }
+
         return maxLen;
     }
 }
