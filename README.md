@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -830,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
