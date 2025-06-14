@@ -28,7 +28,7 @@
  *     }
  * }
  */
-
+/*
 class Solution {
     int leftMost = 0;
     int rightMost = 0;
@@ -106,5 +106,92 @@ class Solution {
         }
 
         return ans;
+    }
+}
+
+
+*/
+//DFS
+/*
+class Solution{
+
+    void dfs(TreeNode root, int hd, int[] min, HashMap<Integer, List<Integer>> mp){
+        if( root == null ) return ;
+
+        if(!mp.containsKey(hd)){
+            mp.put(hd, new ArrayList<>() );
+        }
+        mp.get(hd).add(root.val);
+        min[0] = Math.min ( min[0] , hd);
+
+        //recursively traverse the left and right
+        dfs( root.left, hd-1, min, mp);
+        dfs( root.right, hd+1, min, mp);
+    }
+    public List<List<Integer>> verticalTraversal(TreeNode root) {
+        List<List<Integer>> ans=new ArrayList<>();
+        HashMap<Integer, List<Integer>> mp=new HashMap<>();
+        int min[]={0};
+        dfs(root, 0, min, mp);
+        int hd=min[0];
+        while(mp.containsKey(hd)){
+            ans.add(mp.get(hd));
+            hd++;
+        }
+        return ans;
+    }
+
+}
+*/
+class Solution {
+    // Helper class to store row and value
+    class Pair {
+        int row, val;
+        Pair(int row, int val) {
+            this.row = row;
+            this.val = val;
+        }
+    }
+
+    // DFS to collect nodes with (hd, row, value)
+    void dfs(TreeNode root, int hd, int row,
+             int[] minHD,
+             Map<Integer, List<Pair>> map) {
+        if (root == null) return;
+
+        map.putIfAbsent(hd, new ArrayList<>());
+        map.get(hd).add(new Pair(row, root.val));
+        minHD[0] = Math.min(minHD[0], hd);
+
+        dfs(root.left, hd - 1, row + 1, minHD, map);
+        dfs(root.right, hd + 1, row + 1, minHD, map);
+    }
+
+    public List<List<Integer>> verticalTraversal(TreeNode root) {
+        Map<Integer, List<Pair>> map = new HashMap<>();
+        int[] minHD = {0};
+
+        dfs(root, 0, 0, minHD, map);
+
+        List<List<Integer>> result = new ArrayList<>();
+        int hd = minHD[0];
+
+        while (map.containsKey(hd)) {
+            List<Pair> list = map.get(hd);
+            list.sort((a, b) -> {
+                if (a.row != b.row)
+                    return Integer.compare(a.row, b.row);
+                return Integer.compare(a.val, b.val);
+            });
+
+            List<Integer> col = new ArrayList<>();
+            for (Pair p : list)
+                col.add(p.val);
+
+            result.add(col);
+            hd++;
+        }
+
+        return result;
     }
 }
