@@ -13,81 +13,96 @@
  *     }
  * }
  */
-class Solution {
-    int min = 0;
-    int max = 0;
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 
-    // First traversal to determine leftmost and rightmost positions
+class Solution {
+    int leftMost = 0;
+    int rightMost = 0;
+
+    // Find leftmost and rightmost position
     void find(TreeNode root, int pos) {
         if (root == null) return;
 
-        min = Math.min(min, pos);
-        max = Math.max(max, pos);
+        leftMost = Math.min(leftMost, pos);
+        rightMost = Math.max(rightMost, pos);
 
         find(root.left, pos - 1);
         find(root.right, pos + 1);
     }
 
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        // Step 1: Get the min and max horizontal distance
+        // Step 1: Find bounds
         find(root, 0);
-        int offset = -min;
-        int cols = max - min + 1;
-        int rows = 1000; // Assume max height won’t exceed 1000
-        // To simplify, we can fix a large number of rows (can be optimized with another pass)
+        int offset = -leftMost;
+        int width = rightMost - leftMost + 1;
+        int height = 1000; // assuming max depth won't exceed 1000
 
-        // Step 2: Arrays for storing nodes at each vertical (column) and level (row)
-        List<Integer>[][] grid = new ArrayList[cols][rows];
-
-        for (int i = 0; i < cols; i++) {
-            for (int j = 0; j < rows; j++) {
+        // Step 2: Create 2D arrays
+        List<Integer>[][] grid = new ArrayList[width][height];
+        for (int i = 0; i < width; i++) {
+            for (int j = 0; j < height; j++) {
                 grid[i][j] = new ArrayList<>();
             }
         }
 
         // Step 3: BFS traversal
-        Queue<TreeNode> nodeQueue = new LinkedList<>();
-        Queue<Integer> posQueue = new LinkedList<>();
-        Queue<Integer> levelQueue = new LinkedList<>();
+        Queue<TreeNode> queue = new LinkedList<>();
+        Queue<Integer> index = new LinkedList<>();
+        Queue<Integer> level = new LinkedList<>();
 
-        nodeQueue.offer(root);
-        posQueue.offer(offset); // Shift position so index is non-negative
-        levelQueue.offer(0);
+        queue.offer(root);
+        index.offer(offset); // shifted position
+        level.offer(0);
 
-        int maxLevel = 0;
+        int maxDepth = 0;
 
-        while (!nodeQueue.isEmpty()) {
-            TreeNode current = nodeQueue.poll();
-            int pos = posQueue.poll();
-            int level = levelQueue.poll();
-            maxLevel = Math.max(maxLevel, level);
+        while (!queue.isEmpty()) {
+            TreeNode curr = queue.poll();
+            int pos = index.poll();
+            int lvl = level.poll();
 
-            grid[pos][level].add(current.val);
+            maxDepth = Math.max(maxDepth, lvl);
 
-            if (current.left != null) {
-                nodeQueue.offer(current.left);
-                posQueue.offer(pos - 1);
-                levelQueue.offer(level + 1);
+            grid[pos][lvl].add(curr.val);
+
+            if (curr.left != null) {
+                queue.offer(curr.left);
+                index.offer(pos - 1);
+                level.offer(lvl + 1);
             }
-
-            if (current.right != null) {
-                nodeQueue.offer(current.right);
-                posQueue.offer(pos + 1);
-                levelQueue.offer(level + 1);
+            if (curr.right != null) {
+                queue.offer(curr.right);
+                index.offer(pos + 1);
+                level.offer(lvl + 1);
             }
         }
 
-        // Step 4: Prepare final answer
+        // Step 4: Extract final answer
         List<List<Integer>> ans = new ArrayList<>();
-        for (int i = 0; i < cols; i++) {
+        for (int i = 0; i < width; i++) {
             List<Integer> col = new ArrayList<>();
-            for (int j = 0; j <= maxLevel; j++) {
+            for (int j = 0; j <= maxDepth; j++) {
                 if (!grid[i][j].isEmpty()) {
-                    Collections.sort(grid[i][j]); // Sort for vertical traversal rule
+                    Collections.sort(grid[i][j]); // sorting as per problem requirement
                     col.addAll(grid[i][j]);
                 }
             }
-            ans.add(col);
+            if (!col.isEmpty())
+                ans.add(col);
         }
 
         return ans;
