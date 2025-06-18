@@ -13,6 +13,7 @@
  *     }
  * }
  */
+ /*
 class Solution {
     void inorder(TreeNode root, List<Integer> list){
         if(root == null) return ;
@@ -26,5 +27,26 @@ class Solution {
         inorder(root, list);
         return list.get(k-1);
         
+    }
+}
+*/
+class Solution{
+
+    void find(TreeNode root, int k, PriorityQueue<Integer> pq){
+        if(root == null) return;
+        if(pq.size() < k ) pq.add(root.val);
+        else if(root.val < pq.peek()){
+            pq.poll();
+            pq.add(root.val);
+        }
+
+        find(root.left, k, pq);
+        find(root.right , k, pq);
+    }
+    public int kthSmallest(TreeNode root, int k){
+        PriorityQueue<Integer> pq=new PriorityQueue<>(Collections.reverseOrder());
+        find(root, k, pq);
+        return pq.peek();
+
     }
 }
