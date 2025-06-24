@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
