@@ -11,11 +11,11 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
-        //2. Calculate the indegree of nodes
+        //2. Calculate the indegree of nodes while creating the adjacent list itself
         int indegree[]=new int[numCourses];
-        for(int[] p: prerequisites){
-            int u=p[1];
-            int v=p[0];
+        for(int i =0 ;i<prerequisites.length ; i++){
+            int u=prerequisites[i][0];
+            int v=prerequisites[i][1];
 
             adj.get(u).add(v);
             indegree[v]++;
