@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Linked List
@@ -894,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
