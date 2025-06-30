@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0768-partition-labels) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -927,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
