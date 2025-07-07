@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
