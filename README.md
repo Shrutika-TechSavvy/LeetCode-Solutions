@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Recursion
 |  |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1192,4 +1194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
