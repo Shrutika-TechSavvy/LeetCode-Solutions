@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1642-water-bottles) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
