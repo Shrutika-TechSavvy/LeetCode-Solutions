@@ -10,16 +10,13 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        ListNode temp = head;
-        StringBuilder sb =  new StringBuilder();
-        
-        while(temp!=null){
-            int data = temp.val;
-            String s = String.valueOf(data);
-            sb.append(s);
-            temp = temp.next;
+        int result = 0;
+
+        while(head!=null){
+            result = result << 1 | head.val;
+            head = head.next;
         }
-        String binaryString = sb.toString();
-        return Integer.parseInt(binaryString, 2);
+
+        return result;
     }
 }
