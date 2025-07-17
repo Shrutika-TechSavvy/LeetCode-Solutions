@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0735-asteroid-collision](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
+| [0735-asteroid-collision](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
