@@ -1,48 +1,34 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
-        // using stacks for this question, since 
-        // we have to delete and compare with the newest
-        // ones seen so fat
+        Stack<Integer> stack = new Stack<>();
 
-        // stack to store elements
-        Stack<Integer> s1 = new Stack<>();
-        s1.push(asteroids[0]);
-
-        // iterating the array
-        for (int i = 1; i < asteroids.length; i++) {
+        for (int i = 0; i < asteroids.length; i++) {
             int curr = asteroids[i];
-            
-            // to keep track wether curr is destroyed or not
-            boolean destroyed = false;
 
-            // check the sign of the curr element
-            while (!s1.isEmpty() && (curr < 0 && s1.peek() > 0)) {
-                if (Math.abs(curr) > Math.abs(s1.peek())) {
-                    s1.pop();
-                    // push curr element
-                } else if (Math.abs(curr) == Math.abs(s1.peek())){
-                    s1.pop();
-                    destroyed = true;
-                    break;
-                } else {
-                    destroyed = true;
-                    break;
+            if (curr > 0) {
+                stack.push(curr);
+            } else {
+                while (!stack.isEmpty() && stack.peek() > 0 && stack.peek() < Math.abs(curr)) {
+                    stack.pop();
                 }
-            }
-            
-            // main work pushing into the stack
-            if (!destroyed) {
-                s1.push(curr);
-            }
 
+                if (!stack.isEmpty() && stack.peek() == Math.abs(curr)) {
+                    // Both are same size, both explode
+                    stack.pop();
+                } else if (stack.isEmpty() || stack.peek() < 0) {
+                    // No right-moving asteroid to collide with
+                    stack.push(curr);
+                }
+                // Else: current asteroid explodes, do nothing
+            }
         }
 
-        // return array
-        int[] res = new int[s1.size()];
-        for (int i = res.length - 1; i >= 0; i--) {
-            res[i] = s1.pop();
+        // Build result from stack
+        int[] result = new int[stack.size()];
+        for (int i = result.length - 1; i >= 0; i--) {
+            result[i] = stack.pop();
         }
 
-        return res;
+        return result;
     }
 }
