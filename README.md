@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
