@@ -1,22 +1,20 @@
 class Solution {
     public String makeFancyString(String s) {
-        StringBuilder solution = new StringBuilder();
-
-        char ch = 'A'; // String contains only lowercase chars
-        int count = 1;
-        for (char i : s.toCharArray()) {
-            if (i == ch) {
-                count += 1;
-                if (count < 3) {
-                    solution.append(i);
-                }
-            } else {
-                ch = i;
-                count = 1;
-                solution.append(ch);
+        StringBuilder sb = new StringBuilder();
+        sb.append(s.charAt(0));
+        int n = s.length();int count = 1;
+        for(int i = 1 ; i < n ; i++){
+            char ch = s.charAt(i);
+            if(ch == s.charAt(i - 1) ){
+                count++;
             }
+            else{
+                //the previous character and the current one is not same
+                count = 1;
+            }
+            if(count >= 3) continue;
+            sb.append(ch);
         }
-
-        return solution.toString();
+        return sb.toString();
     }
 }
