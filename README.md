@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
