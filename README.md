@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1239,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
