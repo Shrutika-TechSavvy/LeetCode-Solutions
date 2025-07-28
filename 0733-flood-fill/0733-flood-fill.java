@@ -1,3 +1,5 @@
+/*
+Uisng the DFS
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int iniColor = image[sr][sc];
@@ -29,5 +31,44 @@ class Solution {
                 }
             }
         }
+    }
+}
+*/
+class Solution {
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        Queue<int[]> q = new LinkedList<>();
+        if (image[sr][sc] == color) return image;
+
+
+        int oldColor= image[sr][sc];
+        int n = image.length;
+        int m = image[0].length;
+
+        q.offer(new int[]{sr, sc});   //initial node
+        image[sr][sc] = color;  //  Color the starting point immediately
+
+
+        int dx[] = {0, 0, 1, -1};
+        int dy[] = {1, -1, 0, 0};
+
+        while(!q.isEmpty()){
+            int point[] = q.poll();
+            int x = point[0];
+            int y = point[1];
+
+            for(int d = 0 ; d<4; d++){
+                int newX = x + dx[d];
+                int newY = y + dy[d];
+
+                if(newX < 0 || newY < 0 || newX >= n || newY >= m || image[newX][newY] != oldColor){
+                    continue;
+                }
+                else{
+                    image[newX][newY] = color;
+                    q.offer(new int[]{newX, newY});
+                }
+            }
+        }
+        return image;
     }
 }
