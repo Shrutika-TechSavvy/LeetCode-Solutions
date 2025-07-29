@@ -1,5 +1,6 @@
 class Solution {
 
+    //I have tried of doing this in more optimized way, check the green notebook
     public boolean isValid(StringBuilder curr) {
         int balance = 0;
         for (int i = 0; i < curr.length(); i++) {
