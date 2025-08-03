@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
@@ -1133,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
