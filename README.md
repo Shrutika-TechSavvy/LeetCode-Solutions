@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1753-path-with-minimum-effort](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1753-path-with-minimum-effort](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1972-rotating-the-box](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-path-with-minimum-effort](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1006,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1753-path-with-minimum-effort](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1059,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1083,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
