@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Union Find
 |  |
 | ------- |
@@ -1227,11 +1229,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
