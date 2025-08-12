@@ -10,13 +10,25 @@ class Solution {
         }
         return count;
     }
-    public int[] countBits(int n) {
-        int arr[]=new int[n+1];
-        int count=0;
-        for(int i=0;i<=n;i++)
-        {
-            arr[i]=countSetBits(i);
+    // public int[] countBits(int n) {
+    //     int arr[]=new int[n+1];
+    //     int count=0;
+    //     for(int i=0;i<=n;i++)
+    //     {
+    //         arr[i]=countSetBits(i);
+    //     }
+    //     return arr;
+    // }
+
+    public int[] countBits(int n ){
+        int arr[] = new int[n+1];
+        int count = 0;
+
+        for(int i = 0 ; i <= n; i++){
+            arr[i] = Integer.bitCount(i);
         }
+
         return arr;
+
     }
 }
