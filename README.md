@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
