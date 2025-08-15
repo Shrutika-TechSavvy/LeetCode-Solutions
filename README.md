@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0768-partition-labels) |
