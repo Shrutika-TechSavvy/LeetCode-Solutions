@@ -1337,4 +1337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0826-soup-servings) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
