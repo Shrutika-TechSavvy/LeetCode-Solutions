@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -1067,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -1310,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
