@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3830-find-closest-person](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
