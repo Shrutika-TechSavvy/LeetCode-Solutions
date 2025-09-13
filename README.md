@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
