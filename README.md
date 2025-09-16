@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2846-robot-collisions) |
@@ -1265,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
