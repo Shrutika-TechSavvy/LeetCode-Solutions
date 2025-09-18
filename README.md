@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3678-design-task-manager](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [3678-design-task-manager](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [3678-design-task-manager](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Doubly-Linked List
 |  |
