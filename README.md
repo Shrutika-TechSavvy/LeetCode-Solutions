@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3973-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3797-design-spreadsheet](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3797-design-spreadsheet](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3973-flip-square-submatrix-vertically) |
 ## Graph
 |  |
@@ -1182,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3678-design-task-manager](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
