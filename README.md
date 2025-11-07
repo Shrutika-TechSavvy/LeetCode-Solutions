@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2681-put-marbles-in-bags](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2681-put-marbles-in-bags](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1125,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1158,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2690-house-robber-iv](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -1249,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Shrutika-TechSavvy/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
