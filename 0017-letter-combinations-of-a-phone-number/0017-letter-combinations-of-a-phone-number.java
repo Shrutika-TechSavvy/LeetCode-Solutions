@@ -14,8 +14,8 @@ class Solution {
         for(int i=0;i<value.length();i++)
             {
                 output.append(value.charAt(i));
-            solve(digits, output, answer, index+1,mapping);
-            output.deleteCharAt(output.length() - 1);
+                solve(digits, output, answer, index+1,mapping);
+                output.deleteCharAt(output.length() - 1);
 
         }
     }
